@@ -1,0 +1,76 @@
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.enter-budget {    
+    border: 2px solid #5f9341;
+    height: 130px;
+    padding: 10px;
+
+    
+
+}
+input {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+
+}
+
+.enter-expense {
+    border: 2px solid rgb(155, 14, 14);
+    padding: 10px;
+
+} 
+button {
+    background: white;
+}
+
+#calculate-btn {
+    color: #5f9341;
+    border: 1px solid #5f9341;
+    border-radius: 3px;
+}
+
+#add-btn {
+    color: rgb(155, 14, 14);
+    border: 1px solid rgb(155, 14, 14);
+    border-radius: 3px;
+}
+
+#budget-init {
+    border: 1px solid #5f9341;
+    border-radius: 3px;
+}
+
+#expense-name {
+    border: 1px solid rgb(155, 14, 14);
+    border-radius: 3px;
+}
+
+#expense-amount {
+    border: 1px solid rgb(155, 14, 14);
+    border-radius: 3px;
+}
+
+#icon {
+    color: #06658E;    
+}
+
+i {
+    cursor: pointer;
+}
+
+span {
+    color: #5f9341;
+}
+
